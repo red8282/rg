@@ -34,8 +34,6 @@
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
-				<key>platform-identifier</key>
-				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
 				<string>비즈니즈 포스</string>
 			</dict>
